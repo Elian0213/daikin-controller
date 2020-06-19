@@ -1,5 +1,5 @@
 # Daikin controller
-This controls a Daikin AC, you might have to make some API changes you can easily do this in helpers/Daikin.js
+This controls a Daikin AC, you might have to make some API changes you can easily do this in [helpers/Daikin.js](https://github.com/Elian0213/daikin-controller/blob/master/helpers/Daikin.js)
 
 ## Installation
 
